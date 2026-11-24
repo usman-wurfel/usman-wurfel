@@ -1,7 +1,7 @@
 # Muhammad Usman
 
 Senior Full-Stack Developer (6+ years) — Laravel, Node.js, React/Next.js, AWS & Docker.  
-Based in **Islamabad**, open to **EU / GCC / remote**.
+Based in **Islamabad, Pakistan**.
 
 **Stack:** PHP/Laravel · Node.js · React / Next.js · Vue · MySQL / PostgreSQL · Redis · Docker · AWS · CI/CD · Socket.io / MQTT · Shopify apps · AI API integrations
 
